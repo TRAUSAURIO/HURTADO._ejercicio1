@@ -1,0 +1,8 @@
+Calificación: 2.5/3
+
+Recomendaciones: 
+- Archivo con la captura de imágenes también debía subirlo en GitHub
+- Enumere las páginas 
+- Todas las imágenes deben tener un texto descriptivo
+- Cuando sea necesario se debe agregar al final del documentos, las referencias bibliográficas.
+
